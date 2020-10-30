@@ -1,0 +1,13 @@
+D:\IoT2020\GitStudy\CSharp\20_10_30\bin\Debug\netcoreapp3.1\20_10_30.exe
+D:\IoT2020\GitStudy\CSharp\20_10_30\bin\Debug\netcoreapp3.1\20_10_30.deps.json
+D:\IoT2020\GitStudy\CSharp\20_10_30\bin\Debug\netcoreapp3.1\20_10_30.runtimeconfig.json
+D:\IoT2020\GitStudy\CSharp\20_10_30\bin\Debug\netcoreapp3.1\20_10_30.runtimeconfig.dev.json
+D:\IoT2020\GitStudy\CSharp\20_10_30\bin\Debug\netcoreapp3.1\20_10_30.dll
+D:\IoT2020\GitStudy\CSharp\20_10_30\bin\Debug\netcoreapp3.1\20_10_30.pdb
+D:\IoT2020\GitStudy\CSharp\20_10_30\obj\Debug\netcoreapp3.1\20_10_30.csprojAssemblyReference.cache
+D:\IoT2020\GitStudy\CSharp\20_10_30\obj\Debug\netcoreapp3.1\20_10_30.AssemblyInfoInputs.cache
+D:\IoT2020\GitStudy\CSharp\20_10_30\obj\Debug\netcoreapp3.1\20_10_30.AssemblyInfo.cs
+D:\IoT2020\GitStudy\CSharp\20_10_30\obj\Debug\netcoreapp3.1\20_10_30.csproj.CoreCompileInputs.cache
+D:\IoT2020\GitStudy\CSharp\20_10_30\obj\Debug\netcoreapp3.1\20_10_30.dll
+D:\IoT2020\GitStudy\CSharp\20_10_30\obj\Debug\netcoreapp3.1\20_10_30.pdb
+D:\IoT2020\GitStudy\CSharp\20_10_30\obj\Debug\netcoreapp3.1\20_10_30.genruntimeconfig.cache
