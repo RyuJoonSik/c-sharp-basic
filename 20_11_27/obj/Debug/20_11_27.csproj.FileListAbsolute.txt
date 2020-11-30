@@ -1,0 +1,7 @@
+D:\Study\C#\Grammar\20_11_27\bin\Debug\20_11_27.exe.config
+D:\Study\C#\Grammar\20_11_27\bin\Debug\20_11_27.exe
+D:\Study\C#\Grammar\20_11_27\bin\Debug\20_11_27.pdb
+D:\Study\C#\Grammar\20_11_27\obj\Debug\20_11_27.csprojAssemblyReference.cache
+D:\Study\C#\Grammar\20_11_27\obj\Debug\20_11_27.csproj.CoreCompileInputs.cache
+D:\Study\C#\Grammar\20_11_27\obj\Debug\20_11_27.exe
+D:\Study\C#\Grammar\20_11_27\obj\Debug\20_11_27.pdb
