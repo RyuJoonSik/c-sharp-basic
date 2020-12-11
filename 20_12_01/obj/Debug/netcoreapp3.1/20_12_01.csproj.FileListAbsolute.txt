@@ -1,0 +1,13 @@
+D:\Study\C#\Grammar\20_12_01\bin\Debug\netcoreapp3.1\20_12_01.exe
+D:\Study\C#\Grammar\20_12_01\bin\Debug\netcoreapp3.1\20_12_01.deps.json
+D:\Study\C#\Grammar\20_12_01\bin\Debug\netcoreapp3.1\20_12_01.runtimeconfig.json
+D:\Study\C#\Grammar\20_12_01\bin\Debug\netcoreapp3.1\20_12_01.runtimeconfig.dev.json
+D:\Study\C#\Grammar\20_12_01\bin\Debug\netcoreapp3.1\20_12_01.dll
+D:\Study\C#\Grammar\20_12_01\bin\Debug\netcoreapp3.1\20_12_01.pdb
+D:\Study\C#\Grammar\20_12_01\obj\Debug\netcoreapp3.1\20_12_01.csprojAssemblyReference.cache
+D:\Study\C#\Grammar\20_12_01\obj\Debug\netcoreapp3.1\20_12_01.AssemblyInfoInputs.cache
+D:\Study\C#\Grammar\20_12_01\obj\Debug\netcoreapp3.1\20_12_01.AssemblyInfo.cs
+D:\Study\C#\Grammar\20_12_01\obj\Debug\netcoreapp3.1\20_12_01.csproj.CoreCompileInputs.cache
+D:\Study\C#\Grammar\20_12_01\obj\Debug\netcoreapp3.1\20_12_01.dll
+D:\Study\C#\Grammar\20_12_01\obj\Debug\netcoreapp3.1\20_12_01.pdb
+D:\Study\C#\Grammar\20_12_01\obj\Debug\netcoreapp3.1\20_12_01.genruntimeconfig.cache
