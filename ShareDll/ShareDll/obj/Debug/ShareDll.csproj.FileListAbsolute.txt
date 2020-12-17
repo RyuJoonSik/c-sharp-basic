@@ -1,0 +1,6 @@
+E:\Study\CSharp\Grammar\ShareDll\ShareDll\bin\Debug\ShareDll.dll
+E:\Study\CSharp\Grammar\ShareDll\ShareDll\bin\Debug\ShareDll.pdb
+E:\Study\CSharp\Grammar\ShareDll\ShareDll\obj\Debug\ShareDll.csprojAssemblyReference.cache
+E:\Study\CSharp\Grammar\ShareDll\ShareDll\obj\Debug\ShareDll.csproj.CoreCompileInputs.cache
+E:\Study\CSharp\Grammar\ShareDll\ShareDll\obj\Debug\ShareDll.dll
+E:\Study\CSharp\Grammar\ShareDll\ShareDll\obj\Debug\ShareDll.pdb

@@ -1,0 +1,13 @@
+E:\Study\CSharp\Grammar\20_12_13\20_12_13\bin\Debug\netcoreapp3.1\20_12_13.exe
+E:\Study\CSharp\Grammar\20_12_13\20_12_13\bin\Debug\netcoreapp3.1\20_12_13.deps.json
+E:\Study\CSharp\Grammar\20_12_13\20_12_13\bin\Debug\netcoreapp3.1\20_12_13.runtimeconfig.json
+E:\Study\CSharp\Grammar\20_12_13\20_12_13\bin\Debug\netcoreapp3.1\20_12_13.runtimeconfig.dev.json
+E:\Study\CSharp\Grammar\20_12_13\20_12_13\bin\Debug\netcoreapp3.1\20_12_13.dll
+E:\Study\CSharp\Grammar\20_12_13\20_12_13\bin\Debug\netcoreapp3.1\20_12_13.pdb
+E:\Study\CSharp\Grammar\20_12_13\20_12_13\obj\Debug\netcoreapp3.1\20_12_13.csprojAssemblyReference.cache
+E:\Study\CSharp\Grammar\20_12_13\20_12_13\obj\Debug\netcoreapp3.1\20_12_13.AssemblyInfoInputs.cache
+E:\Study\CSharp\Grammar\20_12_13\20_12_13\obj\Debug\netcoreapp3.1\20_12_13.AssemblyInfo.cs
+E:\Study\CSharp\Grammar\20_12_13\20_12_13\obj\Debug\netcoreapp3.1\20_12_13.csproj.CoreCompileInputs.cache
+E:\Study\CSharp\Grammar\20_12_13\20_12_13\obj\Debug\netcoreapp3.1\20_12_13.dll
+E:\Study\CSharp\Grammar\20_12_13\20_12_13\obj\Debug\netcoreapp3.1\20_12_13.pdb
+E:\Study\CSharp\Grammar\20_12_13\20_12_13\obj\Debug\netcoreapp3.1\20_12_13.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+E:\Study\CSharp\Grammar\Server\Server\bin\Debug\Server.dll
+E:\Study\CSharp\Grammar\Server\Server\bin\Debug\Server.pdb
+E:\Study\CSharp\Grammar\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+E:\Study\CSharp\Grammar\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\Study\CSharp\Grammar\Server\Server\obj\Debug\Server.dll
+E:\Study\CSharp\Grammar\Server\Server\obj\Debug\Server.pdb
+E:\Study\CSharp\Grammar\Server2\Server\obj\Debug\Server.csprojAssemblyReference.cache
+E:\Study\CSharp\Grammar\Server2\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\Study\CSharp\Grammar\Server2\Server\obj\Debug\Server.dll
+E:\Study\CSharp\Grammar\Server2\Server\obj\Debug\Server.pdb
+E:\Study\CSharp\Grammar\Server2\Server\bin\Debug\Server.dll
+E:\Study\CSharp\Grammar\Server2\Server\bin\Debug\Server.pdb
